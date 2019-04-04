@@ -1,0 +1,195 @@
+html{
+   font-family: Arial, Helvetica, sans-serif;
+    
+}
+    
+    
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    
+    /*header*/
+header{
+    background-size: cover;
+    background-position: center;
+    height: 40px;
+    background-color:white;
+    border-top: 4px solid black;
+    border-bottom: 1px solid black;
+}
+       /*UL FORMAT*/
+.ulformat {
+float: right;
+list-style: none;
+margin-top: 10px;
+margin-right: 90px;
+
+}
+.ulformat li {
+display: inline-block;
+margin-left: -60px;
+margin-right: 100px;
+color: rgb(119, 107, 107);  
+font-size: 10px; 
+}
+.ulname{
+float: left;
+list-style: none;
+margin-left: 310px;
+margin-top: 10px;
+color: black;
+    /*headings*/
+}
+h2{
+background-color:purple;   
+width: 220px;
+color: white;
+margin-left: 340px;
+height: 25px;
+margin-top: 30px;
+font-size: 15px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(61, 61, 61);
+    }
+     /*paragraph*/
+.pone{
+color: black;
+margin-left: 340px;
+}
+image{
+float: right;
+margin-right: 300px;
+height: 200px;
+width: 200px;
+border-radius: 100%;
+margin-top: -170px;
+
+}
+     /*SECTIONS*/
+.section-one{
+background-color:rgba(161, 152, 152, 0.37);
+height: 200px;
+padding: 10px;
+}
+.section-two
+{
+height:350px;
+margin-top: 10px;
+background-color:white;
+}
+    /*PICTURES INCLUDE THE SECTIONS part one pictures*/
+.groupone{
+display: inline-block;
+padding: 10px;
+}
+.pictre {
+height: 100px;
+width: 100px;
+margin-top: 10px;
+margin-left: 30px;
+margin-right: 5px;
+}
+.pictwo{
+height: 100px;
+width: 100px;
+margin-top: 10px;
+margin-left: 30px;
+margin-right: 5px;
+}
+.picone{
+height: 100px;
+width: 100px;
+margin-top: 10px;
+margin-left: 30px;
+margin-right: 5px;
+}
+.picfour{
+height: 100px;
+width: 100px;
+margin-left: 300px;
+margin-top: 10px;
+margin-right: 5px;
+}
+/* part two pictures inside the section*/
+.grouptwo{
+display: inline-block;
+padding: 10px;
+}
+.picfive{
+height: 100px;
+width: 100px;
+margin-top: 10px;
+margin-left: 30px;
+margin-right: 5px;
+
+}
+.picsix{
+height: 100px;
+width: 100px;
+margin-top: 10px;
+margin-left: 30px;
+margin-right: 5px;
+}
+.picseven{
+height: 100px;
+width: 100px;
+margin-top: 10px;
+margin-left: 30px;
+margin-right: 5px;
+}
+.piceight{
+height: 100px;
+width: 100px;
+margin-left: 300px;
+margin-top: 10px;
+margin-right: 5px;
+}
+   /*FOOTER ant all contents */
+.ftrformat{
+background-color: black;
+height: 120px;
+width: 100%;
+color: white;
+}
+.pftr{
+background-color: azure;
+color: black;
+width: 60px;
+float: left;
+margin-top:-11px;
+
+}
+hr{
+width: 650px;
+float: left;
+border-color: rgb(145, 129, 129);
+}
+.pap{
+text-align: center;
+float: left;
+margin-top: 5px;
+color: rgb(151, 140, 140);  
+}
+
+.dul{
+color: rgb(151, 140, 140);  
+float: left;
+margin-top: -25px;
+
+}
+.done{
+margin-left: 350px;
+padding-top: 20px;
+color: rgb(151, 140, 140);  
+}
+.dtwo{
+color: rgb(151, 140, 140);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+margin-top:-60px;
+float: right;
+margin-right: 200px;
+}
